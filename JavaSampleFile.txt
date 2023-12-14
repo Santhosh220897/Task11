@@ -1,0 +1,7 @@
+key=value
+user=tester
+password=testdata
+name=santhosh
+age=123
+addess=chennai
+mobile=9876655
